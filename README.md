@@ -22,8 +22,7 @@ Move-it is a web application to help developers and people in general who works 
 
 
 
-### How to install e run
- this application
+### How to install e run this application
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
