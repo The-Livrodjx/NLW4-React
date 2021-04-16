@@ -1,5 +1,8 @@
-![logo]<img href="https://github.com/The-Livrodjx/NLW4-React/blob/master/public/favicon.png" width="75px" height="75px"># Move-it
 
+
+# ![logo /](https://github.com/The-Livrodjx/NLW4-React/blob/master/public/favicon.png) Move-it
+
+<br />
 Move-it é um aplicativo Web para ajudar desenvolvedores e pessoas que trabalham muito na frente do computador a se exercitarem e evitarem enfermidades como tendinite.
 
 
@@ -23,6 +26,13 @@ Move-it is a web application to help developers and people in general who works 
  this application
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+```
+ git clone https://github.com/The-Livrodjx/NLW4-React.git
+ 
+ npm install or yarn add 
+ 
+```
 
 ## Getting Started
 
